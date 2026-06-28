@@ -1,1 +1,26 @@
-#ansh lamba
+#Ansh Lamba youtube channel, python for data engineer [BEGINNER TO ADDVANCE]
+
+# print("Hello World", 25, "meow", 'meow', sep=" c ") # seperator between "" , we use c
+
+# print("hello siddharth",26 ,"year old") #print in single line 
+# print("""hello siddharth ,
+    #    you are 26 year old""") 
+#You use """ or ''' , in middle you write anything, any order. even enter 
+#not even required \n or \t , just 3 times upper stoke'''
+
+# print('hello world  .\'this is siddharth\' how are you') # use \.....\ for remove default of pythons command
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
